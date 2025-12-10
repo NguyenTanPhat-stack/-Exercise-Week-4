@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 Giao Diện
 
-https://github.com/user-attachments/assets/ba4a5c8f-49e3-4318-aa64-6f155ffc094b
+![week4](assets/readme/week4.png)
 
 ## 🎥 Demo
 
