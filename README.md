@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## GiaoDien
-![GiaoDien](assets/readme/week4.png)
+![week4](assets/readme/week4.png)
 
 ## Demo
-https://github.com/user-attachments/assets/5001cd3e-9b6f-4972-9c63-945a94031468
+https://github.com/user-attachments/assets/5001cd3e-9b6f-4972-9c63-945a94031468git add .
